@@ -15,7 +15,7 @@ Two versions of the 'alien' instrument are provided: one with the original 7-cha
 
 
 # Universe Instrument
-This instrument sonifies different power spectra of the [Cosmic Microwave Background](https://www.esa.int/articles/about-us/directorates/science/cosmic-microwave-background-cmb-radiation), echoes of the Big Bang. It implements the sonification scheme proposed by (McGee et al. 2011)(https://www.researchgate.net/publication/235438516_Sonifying_the_Cosmic_Microwave_Background), using inverse-FFT synthesis to convert CMB power to amplitudes and CMP wavenumbers to frequencies. 
+This instrument sonifies different power spectra of the [Cosmic Microwave Background](https://www.esa.int/articles/about-us/directorates/science/cosmic-microwave-background-cmb-radiation), echoes of the Big Bang. It implements the sonification scheme proposed by [McGee et al. 2011](https://www.researchgate.net/publication/235438516_Sonifying_the_Cosmic_Microwave_Background), using inverse-FFT synthesis to convert CMB power to amplitudes and CMP wavenumbers to frequencies. 
 
 Calculations of different 'model universe' power spectra using different cosmological constants were done in Python: see Jupyter Notebook [cmb_models.ipynb](maxpatches/cmb_sounds.ipynb). 
 
