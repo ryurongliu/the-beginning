@@ -11,6 +11,7 @@ Video documentation found [here](https://youtu.be/VJZjwJz8DfI).
 This instrument sonifies the [1977 Wow! signal](https://en.wikipedia.org/wiki/Wow!_signal) detected by Ohio State University's Big Ear Telescope: a strong narrowband radio burst with no known origin. Potentially our first contact with extraterrestrial intelligence?
 
 Two versions of the 'alien' instrument are provided: one with the original 7-channel mix, and one mixed to stereo. The stereo instrument is demonstrated below.
+
 [![alien video demo](https://img.youtube.com/vi/fDmNikXRFVA/maxresdefault.jpg)](https://www.youtube.com/watch?v=fDmNikXRFVA)
 
 
@@ -19,9 +20,12 @@ This instrument sonifies different power spectra of the [Cosmic Microwave Backgr
 
 Calculations of different 'model universe' power spectra using different cosmological constants were done in Python: see Jupyter Notebook [cmb_models.ipynb](maxpatches/cmb_sounds.ipynb). 
 
-Two versions of the universe instrument are provided: one with the original 7-channel mix, and one mixed to stereo. **WARNING**: this patch uses up a lot of compute!! If your machine cannot handle mc objects with up to 285 channels, it may crash. 
+Two versions of the universe instrument are provided: one with the original 7-channel mix, and one mixed to stereo. 
+
+**WARNING: this patch uses up a lot of compute!! If your machine cannot handle mc objects with up to 285 channels, it may crash.** 
 
 The stereo instrument is demonstrated below.
+
 [![universe video demo](https://img.youtube.com/vi/ZumFJ8D4xU4/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZumFJ8D4xU4)
 
 
