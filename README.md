@@ -4,6 +4,7 @@ Video documentation found [here](https://youtu.be/VJZjwJz8DfI).
 
 # Sound-Lights Synchronization
 [final_lights](/final_lights): Arduino code driving Neopixels on the installation.
+
 [brain.maxpat](maxpatches/BRAIN/brain.maxpat): patch driving sound-to-lights synchronization over serial. Uses custom-made "CV" audio files to provide synchronous light-controlling info. These "CV" files are omitted due to size and are available upon request. 
 
 # Alien Instrument
